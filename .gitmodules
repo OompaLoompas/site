@@ -2,7 +2,7 @@
 	path = images
     url = https://github.com/OompaLoompas/images.git
     branch = master
-[submodule "_gallery"]
+[submodule "_gallery"]f
 	path = _gallery
 	url = https://github.com/OompaLoompas/_gallery.git
 	branch = master
