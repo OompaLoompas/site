@@ -7,4 +7,5 @@ events:
   - cpm 
   - ms-dos 
   - linux-from-scratch
+  - manjaro
 ---
