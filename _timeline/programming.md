@@ -26,4 +26,5 @@ events:
   - processing-ide 
   - learntomod
   - bliss
+  - scikit-learn
 ---
