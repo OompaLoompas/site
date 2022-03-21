@@ -5,4 +5,5 @@ caption: Διαφάνειες για τα λειτουργικά συστήμα�
 image_url: /images/linux-from-scratch.jpg
 slides:
   - linux-from-scratch
+  - manjaro
 ---
