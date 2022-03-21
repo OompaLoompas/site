@@ -6,5 +6,5 @@ caption: Τα λειτουργικά συστήματα και οι εφαρμο
 events:
   - cpm 
   - ms-dos 
-  - fedora-linux
+  - Fedora-linux
 ---
