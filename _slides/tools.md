@@ -23,6 +23,7 @@ slides:
   - reactable-music
   - add-test
   - reactivision-simulator
+  - add-test
   - reactable-fountain
   - gedit
   - markdown
