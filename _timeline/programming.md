@@ -25,4 +25,6 @@ events:
   - eclipse-ide
   - processing-ide 
   - learntomod
+  - bliss
+  - scikit-learn
 ---
