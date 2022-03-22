@@ -21,6 +21,7 @@ slides:
   - arduino-shield
   - pebble-hifi
   - reactable-music
+  - add-test
   - reactivision-simulator
   - reactable-fountain
   - gedit
