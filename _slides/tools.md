@@ -25,4 +25,3 @@ slides:
   - reactable-fountain
   - scikit-learn
 ---
-
