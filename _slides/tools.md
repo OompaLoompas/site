@@ -16,6 +16,7 @@ slides:
   - smalltalk
   - vim-ide
   - processing-ide
+  - scikit-learn
   - arduino_uno
   - arduino-lilypad
   - arduino-shield
@@ -23,5 +24,4 @@ slides:
   - reactable-music
   - reactivision-simulator
   - reactable-fountain
-  - scikit-learn
 ---
