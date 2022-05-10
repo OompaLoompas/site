@@ -17,4 +17,4 @@ tags:
   - programmer
 ---
 
-{% include bio-lcaza.md %}
+{% include bio-de-lcaza.md %}
