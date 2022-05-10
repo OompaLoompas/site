@@ -16,5 +16,3 @@ tags:
   - Xamarin
   - programmer
 ---
-
-{% include bio-de-lcaza.md %}
