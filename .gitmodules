@@ -1,7 +1,3 @@
-[submodule "images"]
-	path = images
-    url = https://github.com/OompaLoompas/images.git
-    branch = master
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/OompaLoompas/_gallery.git
@@ -25,3 +21,6 @@
 [submodule "_includes/text"]
 	path = _includes/text
 	url = https://github.com/OompaLoompas/text.git
+[submodule "images"]
+	path = images
+	url = https://github.com/vasiliskampani/images.git
