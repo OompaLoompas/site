@@ -1,7 +1,7 @@
 ---
 layout: slides
 title: Εργαλεία και Τεχνικές
-image_url: /images/reactivision-simulator.png
+image_url: /images/scikit-learn.png
 caption: Διαφάνειες για το κεφάλαιο Εργαλεία και Τεχνικές
 slides:
   - uist-history
@@ -25,4 +25,5 @@ slides:
   - reactable-fountain
   - gedit
   - markdown
+  - scikit-learn
 ---
