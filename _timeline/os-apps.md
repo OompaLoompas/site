@@ -1,9 +1,10 @@
 ---
 layout: timeline 
 title: Λειτουργικά Συστήματα και Εφαρμογές 
-image_url: /images/cpm.png
+image_url: /images/manjaro-linux.png
 caption: Τα λειτουργικά συστήματα και οι εφαρμογές ξεκίνησαν από μια ανάγκη των προγραμματιστών αλλά τελικά έγιναν ένας κυρίαρχος τρόπος διάδρασης με τα προσωπικά συστήματα.  
 events:
   - cpm 
   - ms-dos 
+  - manjaro
 ---
