@@ -11,3 +11,4 @@ tags:
   - package management
 ---
 
+{% include cs-rpm.md %}
