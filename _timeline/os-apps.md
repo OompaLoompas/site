@@ -6,6 +6,4 @@ caption: Τα λειτουργικά συστήματα και οι εφαρμο
 events:
   - cpm 
   - ms-dos 
-  - linux-from-scratch
-  - manjaro
 ---
