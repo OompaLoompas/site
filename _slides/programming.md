@@ -25,5 +25,4 @@ slides:
   - vim-ide
   - processing-ide 
   - learntomod
-  - bliss
 ---
