@@ -7,4 +7,5 @@ events:
   - alpine-linux
   - cpm 
   - ms-dos 
+  - manjaro
 ---

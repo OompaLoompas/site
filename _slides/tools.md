@@ -25,4 +25,5 @@ slides:
   - reactable-fountain
   - gedit
   - markdown
+  - scikit-learn
 ---
