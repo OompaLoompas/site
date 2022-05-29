@@ -26,5 +26,4 @@ events:
   - processing-ide 
   - learntomod
   - scikit-learn
-  - spire-pdf
 ---
