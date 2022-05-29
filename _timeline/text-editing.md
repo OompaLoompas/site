@@ -20,4 +20,5 @@ events:
   - sam-editor
   - acme-editor
   - gedit
+  - spire-pdf
 ---
