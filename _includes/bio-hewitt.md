@@ -19,7 +19,7 @@ Blake Ross. Το 2007, το facebook αγοράζει την parakey, με απ�
 για προγραμματιστές iPhone Three20 και το 2011 αποχώρησε από την Apple αφήνοντας θετικά σχόλια και ευχαριστώντας τους προϊστάμενούς του και λέγοντας πως το 
 facebook ήταν ο καλύτερος εργασιακός χώρος που έχει ποτέ δουλέψει.
 
-{% include figure image_path="/images/parakey-logo.png" caption="Figure 3: Tο logo του firebug, ένα live debugging tool του firefox." id="fig:parakey-logo" %}
+{% include figure image_path="/images/parakey-logo.png" caption="Figure 3: Tο logo της εταιρίας parakey που σήμερα ανήκει στο facebook." id="fig:parakey-logo" %}
 
 Σήμερα. ο Joe Hewitt κατοικεί στο Σαν Φρανσίσκο της Καλιφόρνια και θεωρείται ένα από τους πιο σπουδαίους προγραμματιστές λογισμικού και καθώς διαμόρφωσε πολλές
 καθοριστικές εφαρμογές για λογισμικά, όπως το firefox (browser που έχουν τα περισσότερα linux και χρησιμοποιήσαν για πληθώρα διαφορετικών εργασιών από προγραμματιστές 
