@@ -1,10 +1,12 @@
 ---
 layout: slides
 title: Λειτουργικά συστήματα
+image_url: /images/freespire.png
 image_url: /images/manjaro-linux.png
 caption: Το λειτουργικό σύστημα είναι κατά την πληροφορική το λογισμικό που είναι υπεύθυνο για την διαχείριση και τον συντονισμό των εργασιών καθώς και την κατανομή των διαθέσιμων πόρων. Είναι ένα μεσολαβητικό επίπεδο λογικής διασύνδεσης μεταξύ λογισμικού (software) και υλικού (hardware). 
 slides:
   - manjaro
   - fedora-linux
   - alpine-linux
+  - freespire-linux
 ---

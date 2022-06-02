@@ -2,6 +2,7 @@
 layout: slides
 title: Εργαλεία και Τεχνικές
 image_url: /images/scikit-learn.png
+image_url: /images/spire-pdf.png
 caption: Διαφάνειες για το κεφάλαιο Εργαλεία και Τεχνικές
 slides:
   - uist-history
@@ -26,4 +27,5 @@ slides:
   - gedit
   - markdown
   - scikit-learn
+  - spire-pdf
 ---
