@@ -1,0 +1,15 @@
+---
+author: P2019SARAKATSANIS
+title: microsoft-.net
+image_url: /images/cs-.net.jpg
+caption: "Το .NET είναι ένα δωρεάν cross-platform, μοντέλο παραγωγής ανοιχτού λογισμικού που χρησιμοποιείται για την δημιουργία διαφόρων τύπων αρχείων που υποστηρίζει πολλές γλώσσες προγραμματισμού όπως C#, VB.NET, C++ και F# και αμέτρητες βιβλιοθήκες με παράδειγμα την spire.pdf."
+categories:
+  - Μελέτη Περίπτωσης
+  - Λογισμικό
+tags:
+  - microsoft
+  - .net
+  - cross-platform
+---
+
+{% include cs-.net.md %}
